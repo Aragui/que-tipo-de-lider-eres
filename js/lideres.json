@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Mayoría A – Líder Laissez faire",
+        "descripcion": "Confías en las habilidades de tu equipo. Sabes que cada integrante está bien capacitado para cumplir sus funciones, por lo que no necesitas supervisarlos a cada minuto. Prefieres darles autonomía para que puedan ser productivos y desarrollar su creatividad al máximo. No impones tus opiniones, eso no va contigo. Impulsas un ambiente amigable y de cooperación.\nSi hay alguien que motiva a su equipo y fomenta la colaboración y el trato igualitario (pese a las jerarquías), sin duda, ese/a eres tú.",
+        "valor": "a"
+    },
+    {
+        "titulo": "Mayoría B – Líder situacional",
+        "descripcion": "Tu equipo sabe que cuenta con tu apoyo. Para ellos, eres como una especie de guía o mentor. Muchos podrían decir que, si hay algo en lo que eres bueno/a, es en sacar lo mejor de las personas. Te adaptas a cada situación con mayor facilidad que otros, eres versátil y flexible.\nLe das importancia al aprendizaje y al skilling continuo. De hecho, crees que para alcanzar los objetivos de la empresa tu equipo debe incrementar sus habilidades de manera constante.",
+        "valor": "b"
+    },
+    {
+        "titulo": "Mayoría C – Líder transcultural",
+        "descripcion": "Tienes la capacidad de entender los pensamientos, los sentimientos y las diferencias de las personas gracias a tu inteligencia emocional. Piensas que un equipo diverso puede ser más creativo y productivo que uno que no lo es.\nEres ese/a líder que sabe escuchar, comunicarse claramente y relacionarse con personas de distinto origen o cultura.\nLos que te conocen dirían que tienes conciencia cultural y valoras la diversidad. El mundo necesita más líderes como tú.",
+        "valor": "c"
+    },
+    {
+        "titulo": "Mayoría D – Líder ágil",
+        "descripcion": "Impulsas el cambio y piensas que las acciones dicen más que las palabras. A diferencia de la mayoría, a ti no te cuesta tomar decisiones rápidas. Digamos que siempre estás preparado/a para los cambios repentinos. Tu capacidad de adaptabilidad es innegable.\nCon tu equipo, eres accesible, flexible y colaborativo/a. Fomentas la creatividad y la innovación. Los procesos tradicionales y la burocracia definidamente no van contigo.",
+        "valor": "d"
+    },
+    {
+        "titulo": "Mayoría E – Líder disruptivo",
+        "descripcion": "Estás a favor de las jerarquías flexibles, por lo que cuestionas las formas rígidas o preestablecidas. La mayoría de las veces tus ideas rompen con lo tradicional.\nSi hay tres cosas que fomentas como líder, son el cambio, la innovación y el pensamiento crítico.\nEres una persona aguda, creativa y curiosa. En otras palabras, siempre estás buscando soluciones y mejoras para la compañía.",
+        "valor": "e"
+    },
+    {
+        "titulo": "Mayoría F – Líder transformacional",
+        "descripcion": "Tú eres “el/la que transforma”. Para ti, lo más importante son las personas. Crees en tu equipo y los motivas a crecer. Buscas que cada integrante dé lo mejor de sí, por lo que influyes de manera positiva en su crecimiento individual.\nAlcanzar los objetivos de la compañía son tu prioridad, al igual que el bienestar y el desarrollo de tu equipo. Fomentas un ambiente participativo, colaborativo y de reconocimiento de logros.\nNo le temes a los riesgos.\nY bien, ¿cuáles fueron tus resultados? Recuerda que no hay un liderazgo único o perfecto. Además, es probable que compartas algunas ideas o características de otros tipos de liderazgo. Y un buen liderazgo se trata de eso, de tomar lo mejor de cada estilo y crear uno propio.",
+        "valor": "f"
+    }
+]

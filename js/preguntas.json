@@ -1,0 +1,206 @@
+[
+    {
+        "pregunta": "1. Estás convencido/a de que…",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Los equipos deben gozar de autonomía para desarrollar su creatividad al máximo."
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. Los líderes deben fortalecer las habilidades de su equipo."
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. La diversidad debe ser parte de la cultura de una empresa."
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. La optimización de los procesos permite tomar decisiones más rápidas."
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. Las jerarquías rígidas deben reemplazarse por estructuras más flexibles."
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. Las personas son lo más importante para la transformación de una empresa."
+            }
+        ]
+    },
+    {
+        "pregunta": "2. ¿Qué fomentas en tu equipo?",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Confianza y productividad"
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. Un skilling continuo"
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. Conciencia cultural y diversidad"
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. Agilidad y adaptación"
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. Pensamiento crítico e innovación"
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. Crecimiento y creatividad"
+            }
+        ]
+    },
+    {
+        "pregunta": "3. Si hay algo que no temes, es/son...",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Confiar en tu equipo"
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. Los desafíos"
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. Las diferencias"
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. Lo incierto"
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. Los cambios"
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. Afrontar riesgos"
+            }
+        ]
+    },
+    {
+        "pregunta": "4. ¿Con qué líder te gustaría/ te hubiera gustado tomar un café?",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Barack Obama"
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. Reina Isabel II"
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. Oprah Winfrey"
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. Mahatma Gandhi"
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. Steve Jobs"
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. Angela Merkel"
+            }
+        ]
+    },
+    {
+        "pregunta": "5. Usas tus redes sociales para...",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Para estar al tanto de las tendencias y seguir a otros/otras líderes."
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. Para intercambiar opiniones, compartir conocimiento y aprender de las experiencias de los demás."
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. Para estar informado/a de lo que ocurre en el ámbito empresarial y el mundo."
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. Para estar al tanto de las últimas novedades y cambios en el mundo de los negocios."
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. Uso muy poco las redes sociales, solo para asuntos puntuales relacionados a la compañía."
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. Para enterarme de las últimas noticias del mundo empresarial y laboral."
+            }
+        ]
+    },
+    {
+        "pregunta": "6. La red social que más usas es…",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. Twitter."
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. LinkedIn y Twitter."
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. Facebook, Instagram y Twitter."
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. LinkedIn (aunque prefiero las herramientas colaborativas, como Slack o Trello)."
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. A veces uso Twitter."
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. LinkedIn."
+            }
+        ]
+    },
+    {
+        "pregunta": "7. Si tuvieras que elegir una frase, sería…",
+        "respuestas": [
+            {
+                "valor": "a",
+                "respuesta": "A. “Hay una diferencia entre ser líder y ser un jefe. Los dos se basan en la autoridad. Un jefe demanda obediencia ciega; un líder se gana su autoridad a través de conocimiento y confianza”. –Klaus Balkenhol, campeón olímpico en equitación."
+            },
+            {
+                "valor": "b",
+                "respuesta": "B. “El liderazgo es desbloquear el potencial de la gente para hacerlos mejores”. –Bill Bradley, campeón de la NBA con los New York Knicks y exsenador de los Estados Unidos."
+            },
+            {
+                "valor": "c",
+                "respuesta": "C. “Este mundo no va a cambiar a menos que estemos dispuestos a cambiar nosotros mismos”. –Rigoberta Menchú, embajadora de buena voluntad de la UNESCO y Premio Nobel de la Paz en 1992."
+            },
+            {
+                "valor": "d",
+                "respuesta": "D. “El pesimista se queja del viento. El optimista espera que cambie. El líder arregla las velas”.  –John Maxwell, escritor y conferencista."
+            },
+            {
+                "valor": "e",
+                "respuesta": "E. “Nunca se debe gatear cuando se tiene el impulso de volar” –Helen Keller, escritora y activista política."
+            },
+            {
+                "valor": "f",
+                "respuesta": "F. “He aprendido a arriesgarme, a hacer cosas nuevas. El crecimiento y la comodidad no pueden coexistir”. –Virginia Rometty, expresidenta y CEO de IBM."
+            }
+        
+        ]
+    }
+]
