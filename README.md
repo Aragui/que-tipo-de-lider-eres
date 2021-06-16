@@ -1,2 +1,2 @@
-# que tipo de lider eres
+# ¿Que tipo de lider eres?
  
